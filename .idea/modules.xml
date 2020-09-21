@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../hand-gender-classification/.idea/breast-cancer-classification.iml" filepath="$PROJECT_DIR$/../hand-gender-classification/.idea/breast-cancer-classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gender-classification-by-hand-image/.idea/gender-classification-by-hand.iml" filepath="$PROJECT_DIR$/../gender-classification-by-hand-image/.idea/gender-classification-by-hand.iml" />
     </modules>
   </component>
 </project>

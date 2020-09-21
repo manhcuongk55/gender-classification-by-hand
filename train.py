@@ -85,9 +85,9 @@ rows = 3
 for i in range(1, columns * rows + 1):
     ax = fig.add_subplot(rows, columns, i)
     if np.argmax(Y_train[i]) == 0:
-        ax.title.set_text('Benign')
+        ax.title.set_text('male')
     else:
-        ax.title.set_text('Malignant')
+        ax.title.set_text('female')
     plt.imshow(x_train[i], interpolation='nearest')
 plt.show()
 
